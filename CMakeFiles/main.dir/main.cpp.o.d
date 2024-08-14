@@ -1,4 +1,4 @@
-CMakeFiles/main.dir/main.cpp.o: /root/coding/main.cpp \
+CMakeFiles/main.dir/main.cpp.o: /root/hse/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/10.3.1/iostream \
  /usr/include/c++/10.3.1/i586-alpine-linux-musl/bits/c++config.h \
  /usr/include/c++/10.3.1/i586-alpine-linux-musl/bits/os_defines.h \
