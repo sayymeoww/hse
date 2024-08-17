@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/Users/ikard/Desktop/hse")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/Users/ikard/Desktop/hse")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/Users/ikard/Desktop/hse/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
