@@ -7,7 +7,7 @@ signed main() {
 	cin.tie(0);
 
 	// code here
-	
+
 	cout << "Hello world!" << '\n';
 
 	return 0;
