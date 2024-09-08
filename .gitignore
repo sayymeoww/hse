@@ -1,0 +1,16 @@
+# Расширения
+*.cpp.o
+*.cpp.swp
+*.swp
+*.vscode
+*.json
+*.cmake
+
+# Директории
+build/
+CMakeFiles/
+
+# Файлы
+main
+Makefile
+.DS_Store
